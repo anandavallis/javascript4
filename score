@@ -1,0 +1,21 @@
+
+        let score = prompt("Enter the student's score:");
+  
+         if (100 >= 90) {
+           console.log("Grade: A");
+         } 
+         else if (80 >= 89) {
+           console.log("Grade: B");
+       }
+        else if (70 >= 79) {
+    console.log("Grade: C");
+     }    
+    else if (60 >= 69) {
+       console.log("Grade: D");
+      } 
+      else {
+       console.log("Grade: F");
+     }
+
+
+    
