@@ -1,0 +1,14 @@
+     let number = -8;
+
+    if (number >= 0) 
+        
+        if(number > 0){
+        console.log("Positive number");
+    } 
+    else {
+        console.log("Zero");
+    }
+    else  {
+        console.log("Negative number");
+    }
+
